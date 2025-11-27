@@ -28,6 +28,7 @@ export const symptoms: Symptom[] = [
     { id: 'fever', name: 'حمى', category: 'General', severities: ['mild', 'moderate', 'severe'] },
     { id: 'fatigue', name: 'تعب وإرهاق', category: 'General', severities: ['mild', 'moderate', 'severe'] },
     { id: 'headache', name: 'صداع', category: 'General', severities: ['mild', 'moderate', 'severe'] },
+    { id: 'loss_of_taste_or_smell', name: 'فقدان حاسة الشم أو التذوق', category: 'General', severities: ['mild', 'moderate', 'severe'] },
 ];
 
 export const symptomCategories = [
